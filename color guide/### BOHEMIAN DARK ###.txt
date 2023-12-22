@@ -1,0 +1,86 @@
+### BOHEMIAN DARK ###
+
+BROWN 
+Blackish Brown - #323130
+Dark Brown - #5a3a3a
+Brown - #754f4f
+Mid Brown - #8c4b2c
+Light Brown - #be9480
+Very Light Brown - #ffe5d9
+
+PEACH
+Peach - #eac2b1
+Pale Peach - #eecbae70
+Very Pale Peach - #f1eae470
+
+GREY
+Grey - #adadad
+Very Light Grey - #f3f3f3
+Transparent Very Dark Grey - #0000005e
+Transparent Grey - #76767697
+White - #ffffff
+
+BLUE
+Cyan Blue - #44a4adf7
+Sky Blue - #4f99d9
+Pale Sky Blue - #4f99d9c5
+Very Pale Sky Blue - #4f99d983 
+Very Very Pale Sky Blue - #4f99d92e 
+Very Very Very Pale Sky Blue - 
+Light Sky Blue = #6babe2
+Very Light Sky Blue - #e4f2ff
+
+YELLOW
+Dark Yellow - #e9a700
+Yellow - #ffc83f
+Light Yellow - #fdd87b
+Pale Light Yellow - #fdd87b81
+Very Pale Light Yellow - #fdd87b4e
+Very Light Yellow - #ffe29b
+Very Very Light Yellow - #fff1d0
+
+RED
+Crimson - #ad0707
+Light Red - #e65c5c
+Pale Light Red - #e65c5c32
+Very Pale Light Red - #e65c5c14
+Very Light Red - #e88585
+
+GREEN
+Green - #68c945
+Light Green - #85cb6c
+Pale Light Green - #85cb6cc3
+Very Pale Light Green - #85cb6c56
+
+PURPLE
+Purple - #0064ff
+Lavender - #8e6fe4
+Light Lavender - #a18cd9
+Pale Light Lavender - #a18cd981
+Very Pale Light Lavender - #a18cd94e
+Very Light Lavender - #d8cbfb
+Very Very Light Lavender - #efeaff
+
+
+## NEW ADDITIONS FOR DARK THEME ##
+
+Blackish Reddish Brown - #262525
+Dark Blackish Brown - #2a2929 
+Very Dark Blackish Brown - #1f1e1e
+Transparent Black - #0d0d0d85
+Transparent Dark Grey - #76767638
+Transparent Mid Grey - #7676765c
+Dark Pale Red - #cf181833
+Dark Pale Green - #295a1c60
+Dark Blue - #001f33
+
+
+
+
+
+
+
+
+
+
+
