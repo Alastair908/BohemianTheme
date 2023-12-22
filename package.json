@@ -1,21 +1,24 @@
 {
-	"name": "codercoder-dark-theme",
-	"displayName": "Coder Coder Dark",
-	"description": "The VS Code theme you've seen in all my YouTube videos!",
-	"version": "1.2.6",
-	"publisher": "CoderCoder",
-	"icon": "profile-square-150px.jpg",
+	"name": "@alastair908/bohemian-theme",
+	"displayName": "Bohemian",
+	"description": "A warm, earthy theme for VSCode inspired by the 1970s. Available in Light or Dark.",
+	"version": "1.0.0",
+	"publisher": "Alastair908",
+	"icon": "profile_image-min.jpg",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/thecodercoder/codercoder-dark-theme"
+		"url": "https://github.com/Alastair908/BohemianTheme"
 	},
 	"keywords": [
 		"theme",
+		"light theme",
 		"dark theme",
-		"coder coder",
-		"codercoder",
-		"thecodercoder",
-		"coder coder dark"
+		"light",
+		"dark",
+		"bohemian",
+		"bohemian theme",
+		"bohemian light",
+		"bohemian dark"
 	],
 	"engines": {
 		"vscode": "^1.52.0"
@@ -26,16 +29,21 @@
 	"contributes": {
 		"themes": [
 			{
+				"label": "Coder Coder Light Theme",
+				"uiTheme": "vs",
+				"path": "./themes/bohemian-light.json"
+			},
+			{
 				"label": "Coder Coder Dark Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Coder Coder Dark Theme-color-theme.json"
+				"path": "./themes/bohemian-dark.json"	
 			}
 		]
 	},
 	"__metadata": {
 		"id": "3403e896-ed8f-48cf-9232-31bee35cc106",
 		"publisherId": "7edbc3ad-65a1-43a9-8675-8397a8ef35a5",
-		"publisherDisplayName": "Coder Coder",
+		"publisherDisplayName": "Alastair908",
 		"targetPlatform": "undefined",
 		"updated": false,
 		"isPreReleaseVersion": false,
