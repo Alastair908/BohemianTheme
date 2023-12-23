@@ -1,18 +1,18 @@
 # Bohemian
 
-write some stuff.....
+A warm, earthy theme for VSCode inspired by the 1970s. Available in Light or Dark mode.
 
 
 ## Screenshots
 
 ### Python
 
-![Python screenshot]("INSERT HERE")
+![Alt Text](path/to/screenshot.png)
 
 ### Java
 
-![Java screenshot]("INSERT HERE")
+![Alt Text](path/to/screenshot.png)
 
 ### Rust 
 
-![Rust screenshot]("INSERT HERE")
+![Alt Text](path/to/screenshot.png)
