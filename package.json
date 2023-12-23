@@ -1,5 +1,5 @@
 {
-	"name": "@alastair908/bohemian-theme",
+	"name": "bohemian-theme",
 	"displayName": "Bohemian",
 	"description": "A warm, earthy theme for VSCode inspired by the 1970s. Available in Light or Dark.",
 	"version": "1.0.0",
@@ -18,10 +18,12 @@
 		"bohemian",
 		"bohemian theme",
 		"bohemian light",
-		"bohemian dark"
+		"bohemian dark",
+		"warm",
+		"earth"
 	],
 	"engines": {
-		"vscode": "^1.52.0"
+		"vscode": "^1.85.1"
 	},
 	"categories": [
 		"Themes"
@@ -29,20 +31,20 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Coder Coder Light Theme",
+				"label": "Bohemian Light Theme",
 				"uiTheme": "vs",
-				"path": "./themes/bohemian-light.json"
+				"path": "./themes/bohemian-light-color-theme.json"
 			},
 			{
-				"label": "Coder Coder Dark Theme",
+				"label": "Bohemian Dark Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/bohemian-dark.json"	
+				"path": "./themes/bohemian-dark-color-theme.json"	
 			}
 		]
 	},
 	"__metadata": {
 		"id": "3403e896-ed8f-48cf-9232-31bee35cc106",
-		"publisherId": "7edbc3ad-65a1-43a9-8675-8397a8ef35a5",
+		"publisherId": "10c02626-79cf-60eb-b90a-c57e1276f046",
 		"publisherDisplayName": "Alastair908",
 		"targetPlatform": "undefined",
 		"updated": false,
