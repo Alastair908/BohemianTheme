@@ -5,14 +5,20 @@ A warm, earthy theme for VSCode inspired by the 1970s. Available in Light or Dar
 
 ## Screenshots
 
-### Python
+### Python 
 
-![Alt Text](path/to/screenshot.png)
+![Light](examples\PythonLight.png)
+
+![Dark](examples\PythonDark.png)
+
+### JavaScript
+
+![Light](examples\JavaScriptLight.png)
+
+![Dark](examples\JavaScriptDark.png)
 
 ### Java
 
-![Alt Text](path/to/screenshot.png)
+![Light](examples\JavaLight.png)
 
-### Rust 
-
-![Alt Text](path/to/screenshot.png)
+![Dark](examples\JavaDark.png)

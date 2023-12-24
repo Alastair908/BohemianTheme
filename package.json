@@ -2,7 +2,7 @@
 	"name": "bohemian-theme",
 	"displayName": "Bohemian",
 	"description": "A warm, earthy theme for VSCode inspired by the 1970s. Available in Light or Dark.",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "Alastair908",
 	"icon": "profile_image-min.jpg",
 	"repository": {
@@ -38,7 +38,7 @@
 			{
 				"label": "Bohemian Dark Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/bohemian-dark-color-theme.json"	
+				"path": "./themes/bohemian-dark-color-theme.json"
 			}
 		]
 	},
